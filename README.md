@@ -277,3 +277,33 @@ For each algorithm:
 
 ---
 
+---
+
+# 12. Screenshots
+
+## Route Visualization
+After selecting an algorithm, the program displays the computed shortest route on the map.
+
+Add a screenshot here, for example:
+
+- Route from Bielefeld Hauptbahnhof to nearest hospital
+- Route from Universität Bielefeld to nearest hospital
+
+Example:
+
+![Route Map](images/route_map.png)
+
+## Graph Representation
+A graph image of the Bielefeld road network can also be included to demonstrate the graph-based structure of the city.
+
+Example:
+
+![Graph Demo](images/graph_demo.png)
+
+---
+
+# 13. Notes
+- The program is designed for one scenario at a time.
+- To complete the project evaluation, it should be run for at least five different start locations.
+- The shortest route is calculated to the nearest hospital found in the road network.
+- The same path length may be produced by both algorithms, but runtime and memory usage can differ.
