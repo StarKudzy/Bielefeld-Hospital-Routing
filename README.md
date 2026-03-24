@@ -277,7 +277,3 @@ For each algorithm:
 
 ---
 
-# 12. Author
-
-B208 Advanced Algorithms
-Gisma University of Applied Sciences
