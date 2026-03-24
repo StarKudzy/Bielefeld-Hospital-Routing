@@ -284,21 +284,21 @@ For each algorithm:
 ## Route Visualization
 After selecting an algorithm, the program displays the computed shortest route on the map.
 
-Add a screenshot here, for example:
+
 
 - Route from Bielefeld Hauptbahnhof to nearest hospital
 - Route from Universität Bielefeld to nearest hospital
 
 Example:
 
-![Route Map](images/route_map.png)
+![Route Map](images/image1.png)
 
 ## Graph Representation
 A graph image of the Bielefeld road network can also be included to demonstrate the graph-based structure of the city.
 
 Example:
 
-![Graph Demo](images/graph_demo.png)
+![Graph Demo](images/image2.png)
 
 ---
 
